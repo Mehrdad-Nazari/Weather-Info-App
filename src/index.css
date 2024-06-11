@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+ font-family: "Roboto";
+ 
+}
+body{
+  background: rgb(245,97,162);
+background: radial-gradient(circle, rgba(245,97,162,1) 30%, rgba(130,159,193,1) 100%);
+}
